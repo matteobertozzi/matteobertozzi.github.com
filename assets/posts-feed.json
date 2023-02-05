@@ -1,5 +1,10 @@
 [
   {
+    "id": "group-row-objs-by-fields-and-types",
+    "title": "Group Row objects by Fields and Types",
+    "timestamp": 1675584137000
+  },
+  {
     "id": "hash-indexed-array",
     "title": "Hash Indexed Array",
     "timestamp": 1668876934000
