@@ -1,7 +1,8 @@
 ---
 {
   "title": "Sort Correlated Arrays",
-  "timestamp": 1668279907000
+  "timestamp": 1668279907000,
+  "tags": ["java"]
 }
 ---
 

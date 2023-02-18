@@ -1,7 +1,8 @@
 ---
 {
   "title": "Hash Indexed Array",
-  "timestamp": 1668876934000
+  "timestamp": 1668876934000,
+  "tags": ["java"]
 }
 ---
 
