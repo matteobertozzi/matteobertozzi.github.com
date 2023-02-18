@@ -1,7 +1,8 @@
 ---
 {
   "title": "Int Sequence Compression",
-  "timestamp": 1667619961000
+  "timestamp": 1667619961000,
+  "tags": ["data-encoding"]
 }
 ---
 

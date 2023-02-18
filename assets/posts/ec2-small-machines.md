@@ -1,7 +1,8 @@
 ---
 {
   "title": "AWS EC2 Small Machines Ref Chart",
-  "timestamp": 1649514754000
+  "timestamp": 1649514754000,
+  "tags": ["aws", "ec2", "graviton"]
 }
 ---
 

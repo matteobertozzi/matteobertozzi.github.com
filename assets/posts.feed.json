@@ -1,8 +1,26 @@
 [
   {
+    "id": "yajbe-encoding",
+    "title": "Yet Another JSON Binary Encoding",
+    "timestamp": 1676721393000,
+    "tags": [
+      "json",
+      "binary",
+      "data-encoding"
+    ]
+  },
+  {
     "id": "group-row-objs-by-fields-and-types",
     "title": "Group Row objects by Fields and Types",
     "timestamp": 1675584137000
+  },
+  {
+    "id": "enum-streaming-encoding",
+    "title": "String/Enum Streaming Encoding",
+    "timestamp": 1675513309000,
+    "tags": [
+      "data-encoding"
+    ]
   },
   {
     "id": "hash-indexed-array",
@@ -17,7 +35,10 @@
   {
     "id": "int-seq-compression",
     "title": "Int Sequence Compression",
-    "timestamp": 1667619961000
+    "timestamp": 1667619961000,
+    "tags": [
+      "data-encoding"
+    ]
   },
   {
     "id": "deno-lambda-arm",
@@ -27,7 +48,12 @@
   {
     "id": "ec2-small-machines",
     "title": "AWS EC2 Small Machines Ref Chart",
-    "timestamp": 1649514754000
+    "timestamp": 1649514754000,
+    "tags": [
+      "aws",
+      "ec2",
+      "graviton"
+    ]
   },
   {
     "id": "datacenter-coordinated-rolling-upgrades",
