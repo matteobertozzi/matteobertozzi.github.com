@@ -43,6 +43,14 @@
       ]
     },
     {
+      "id": "sqlite-varint",
+      "title": "A better VarInt (Sqlite4)",
+      "timestamp": 1674420961000,
+      "tags": [
+        "data-encoding"
+      ]
+    },
+    {
       "id": "int-seq-compression",
       "title": "Int Sequence Compression",
       "timestamp": 1667619961000,

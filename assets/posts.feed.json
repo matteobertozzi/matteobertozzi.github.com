@@ -23,6 +23,14 @@
     ]
   },
   {
+    "id": "sqlite-varint",
+    "title": "A better VarInt (Sqlite4)",
+    "timestamp": 1674420961000,
+    "tags": [
+      "data-encoding"
+    ]
+  },
+  {
     "id": "otp-google-authenticator",
     "title": "Google Authenticator One Time Password",
     "timestamp": 1673804612000,
