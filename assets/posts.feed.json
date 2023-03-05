@@ -1,5 +1,14 @@
 [
   {
+    "id": "identify-frequent-words",
+    "title": "Identify Frequent \"Words\"",
+    "timestamp": 1678017891000,
+    "tags": [
+      "java",
+      "data-structures"
+    ]
+  },
+  {
     "id": "yajbe-encoding",
     "title": "Yet Another JSON Binary Encoding",
     "timestamp": 1676721393000,

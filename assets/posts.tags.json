@@ -1,4 +1,52 @@
 {
+  "java": [
+    {
+      "id": "identify-frequent-words",
+      "title": "Identify Frequent \"Words\"",
+      "timestamp": 1678017891000,
+      "tags": [
+        "java",
+        "data-structures"
+      ]
+    },
+    {
+      "id": "otp-google-authenticator",
+      "title": "Google Authenticator One Time Password",
+      "timestamp": 1673804612000,
+      "tags": [
+        "java",
+        "MFA",
+        "2FA"
+      ]
+    },
+    {
+      "id": "hash-indexed-array",
+      "title": "Hash Indexed Array",
+      "timestamp": 1668876934000,
+      "tags": [
+        "java"
+      ]
+    },
+    {
+      "id": "sort-correlated-arrays",
+      "title": "Sort Correlated Arrays",
+      "timestamp": 1668279907000,
+      "tags": [
+        "java"
+      ]
+    }
+  ],
+  "data-structures": [
+    {
+      "id": "identify-frequent-words",
+      "title": "Identify Frequent \"Words\"",
+      "timestamp": 1678017891000,
+      "tags": [
+        "java",
+        "data-structures"
+      ]
+    }
+  ],
   "json": [
     {
       "id": "yajbe-encoding",
@@ -56,34 +104,6 @@
       "timestamp": 1667619961000,
       "tags": [
         "data-encoding"
-      ]
-    }
-  ],
-  "java": [
-    {
-      "id": "otp-google-authenticator",
-      "title": "Google Authenticator One Time Password",
-      "timestamp": 1673804612000,
-      "tags": [
-        "java",
-        "MFA",
-        "2FA"
-      ]
-    },
-    {
-      "id": "hash-indexed-array",
-      "title": "Hash Indexed Array",
-      "timestamp": 1668876934000,
-      "tags": [
-        "java"
-      ]
-    },
-    {
-      "id": "sort-correlated-arrays",
-      "title": "Sort Correlated Arrays",
-      "timestamp": 1668279907000,
-      "tags": [
-        "java"
       ]
     }
   ],
