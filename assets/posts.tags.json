@@ -1,4 +1,40 @@
 {
+  "key-value stores": [
+    {
+      "id": "kvstore-composite-key",
+      "title": "Composite Key in Key/Value Stores",
+      "timestamp": 1679216248000,
+      "tags": [
+        "key-value stores",
+        "composite key",
+        "binary key"
+      ]
+    }
+  ],
+  "composite key": [
+    {
+      "id": "kvstore-composite-key",
+      "title": "Composite Key in Key/Value Stores",
+      "timestamp": 1679216248000,
+      "tags": [
+        "key-value stores",
+        "composite key",
+        "binary key"
+      ]
+    }
+  ],
+  "binary key": [
+    {
+      "id": "kvstore-composite-key",
+      "title": "Composite Key in Key/Value Stores",
+      "timestamp": 1679216248000,
+      "tags": [
+        "key-value stores",
+        "composite key",
+        "binary key"
+      ]
+    }
+  ],
   "java": [
     {
       "id": "identify-frequent-words",

@@ -1,5 +1,15 @@
 [
   {
+    "id": "kvstore-composite-key",
+    "title": "Composite Key in Key/Value Stores",
+    "timestamp": 1679216248000,
+    "tags": [
+      "key-value stores",
+      "composite key",
+      "binary key"
+    ]
+  },
+  {
     "id": "identify-frequent-words",
     "title": "Identify Frequent \"Words\"",
     "timestamp": 1678017891000,

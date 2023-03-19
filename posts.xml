@@ -5,10 +5,18 @@
   <link>https://matteobertozzi.github.io/</link>
   <description>Th30z blog posts and code</description>
   <language>en-us</language>
-  <copyright>© 2012 - 2022 Matteo Bertozzi</copyright>
-  <lastBuildDate>Sun, 05 Mar 2023 12:04:51 GMT</lastBuildDate>
+  <copyright>© 2012 - 2023 Matteo Bertozzi</copyright>
+  <lastBuildDate>Sun, 19 Mar 2023 08:57:28 GMT</lastBuildDate>
   <atom:link href="https://matteobertozzi.github.io/posts.xml" rel="self" type="application/rss+xml"/>
 
+
+  <item>
+    <title>Composite Key in Key/Value Stores</title>
+    <link>https://matteobertozzi.github.io/posts/kvstore-composite-key</link>
+    <pubDate>Sun, 19 Mar 2023 08:57:28 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/posts/kvstore-composite-key</guid>
+  </item>
+  
 
   <item>
     <title>Identify Frequent "Words"</title>
