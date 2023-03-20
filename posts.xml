@@ -7,118 +7,118 @@
   <language>en-us</language>
   <copyright>© 2012 - 2023 Matteo Bertozzi</copyright>
   <lastBuildDate>Sun, 19 Mar 2023 08:57:28 GMT</lastBuildDate>
-  <atom:link href="https://matteobertozzi.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://matteobertozzi.github.io/#/posts.xml" rel="self" type="application/rss+xml"/>
 
 
   <item>
     <title>Composite Key in Key/Value Stores</title>
-    <link>https://matteobertozzi.github.io/posts/kvstore-composite-key</link>
+    <link>https://matteobertozzi.github.io/#/posts/kvstore-composite-key</link>
     <pubDate>Sun, 19 Mar 2023 08:57:28 GMT</pubDate>
-    <guid>https://matteobertozzi.github.io/posts/kvstore-composite-key</guid>
+    <guid>https://matteobertozzi.github.io/#/posts/kvstore-composite-key</guid>
   </item>
   
 
   <item>
     <title>Identify Frequent "Words"</title>
-    <link>https://matteobertozzi.github.io/posts/identify-frequent-words</link>
+    <link>https://matteobertozzi.github.io/#/posts/identify-frequent-words</link>
     <pubDate>Sun, 05 Mar 2023 12:04:51 GMT</pubDate>
-    <guid>https://matteobertozzi.github.io/posts/identify-frequent-words</guid>
+    <guid>https://matteobertozzi.github.io/#/posts/identify-frequent-words</guid>
   </item>
   
 
   <item>
     <title>Yet Another JSON Binary Encoding</title>
-    <link>https://matteobertozzi.github.io/posts/yajbe-encoding</link>
+    <link>https://matteobertozzi.github.io/#/posts/yajbe-encoding</link>
     <pubDate>Sat, 18 Feb 2023 11:56:33 GMT</pubDate>
-    <guid>https://matteobertozzi.github.io/posts/yajbe-encoding</guid>
+    <guid>https://matteobertozzi.github.io/#/posts/yajbe-encoding</guid>
   </item>
   
 
   <item>
     <title>Group Row objects by Fields and Types</title>
-    <link>https://matteobertozzi.github.io/posts/group-row-objs-by-fields-and-types</link>
+    <link>https://matteobertozzi.github.io/#/posts/group-row-objs-by-fields-and-types</link>
     <pubDate>Sun, 05 Feb 2023 08:02:17 GMT</pubDate>
-    <guid>https://matteobertozzi.github.io/posts/group-row-objs-by-fields-and-types</guid>
+    <guid>https://matteobertozzi.github.io/#/posts/group-row-objs-by-fields-and-types</guid>
   </item>
   
 
   <item>
     <title>String/Enum Streaming Encoding</title>
-    <link>https://matteobertozzi.github.io/posts/enum-streaming-encoding</link>
+    <link>https://matteobertozzi.github.io/#/posts/enum-streaming-encoding</link>
     <pubDate>Sat, 04 Feb 2023 12:21:49 GMT</pubDate>
-    <guid>https://matteobertozzi.github.io/posts/enum-streaming-encoding</guid>
+    <guid>https://matteobertozzi.github.io/#/posts/enum-streaming-encoding</guid>
   </item>
   
 
   <item>
     <title>A better VarInt (Sqlite4)</title>
-    <link>https://matteobertozzi.github.io/posts/sqlite-varint</link>
+    <link>https://matteobertozzi.github.io/#/posts/sqlite-varint</link>
     <pubDate>Sun, 22 Jan 2023 20:56:01 GMT</pubDate>
-    <guid>https://matteobertozzi.github.io/posts/sqlite-varint</guid>
+    <guid>https://matteobertozzi.github.io/#/posts/sqlite-varint</guid>
   </item>
   
 
   <item>
     <title>Google Authenticator One Time Password</title>
-    <link>https://matteobertozzi.github.io/posts/otp-google-authenticator</link>
+    <link>https://matteobertozzi.github.io/#/posts/otp-google-authenticator</link>
     <pubDate>Sun, 15 Jan 2023 17:43:32 GMT</pubDate>
-    <guid>https://matteobertozzi.github.io/posts/otp-google-authenticator</guid>
+    <guid>https://matteobertozzi.github.io/#/posts/otp-google-authenticator</guid>
   </item>
   
 
   <item>
     <title>Hash Indexed Array</title>
-    <link>https://matteobertozzi.github.io/posts/hash-indexed-array</link>
+    <link>https://matteobertozzi.github.io/#/posts/hash-indexed-array</link>
     <pubDate>Sat, 19 Nov 2022 16:55:34 GMT</pubDate>
-    <guid>https://matteobertozzi.github.io/posts/hash-indexed-array</guid>
+    <guid>https://matteobertozzi.github.io/#/posts/hash-indexed-array</guid>
   </item>
   
 
   <item>
     <title>Sort Correlated Arrays</title>
-    <link>https://matteobertozzi.github.io/posts/sort-correlated-arrays</link>
+    <link>https://matteobertozzi.github.io/#/posts/sort-correlated-arrays</link>
     <pubDate>Sat, 12 Nov 2022 19:05:07 GMT</pubDate>
-    <guid>https://matteobertozzi.github.io/posts/sort-correlated-arrays</guid>
+    <guid>https://matteobertozzi.github.io/#/posts/sort-correlated-arrays</guid>
   </item>
   
 
   <item>
     <title>Int Sequence Compression</title>
-    <link>https://matteobertozzi.github.io/posts/int-seq-compression</link>
+    <link>https://matteobertozzi.github.io/#/posts/int-seq-compression</link>
     <pubDate>Sat, 05 Nov 2022 03:46:01 GMT</pubDate>
-    <guid>https://matteobertozzi.github.io/posts/int-seq-compression</guid>
+    <guid>https://matteobertozzi.github.io/#/posts/int-seq-compression</guid>
   </item>
   
 
   <item>
     <title>Deno AWS Lambda ARM/Graviton2 Build</title>
-    <link>https://matteobertozzi.github.io/posts/deno-lambda-arm</link>
+    <link>https://matteobertozzi.github.io/#/posts/deno-lambda-arm</link>
     <pubDate>Fri, 22 Apr 2022 20:34:31 GMT</pubDate>
-    <guid>https://matteobertozzi.github.io/posts/deno-lambda-arm</guid>
+    <guid>https://matteobertozzi.github.io/#/posts/deno-lambda-arm</guid>
   </item>
   
 
   <item>
     <title>AWS EC2 Small Machines Ref Chart</title>
-    <link>https://matteobertozzi.github.io/posts/ec2-small-machines</link>
+    <link>https://matteobertozzi.github.io/#/posts/ec2-small-machines</link>
     <pubDate>Sat, 09 Apr 2022 14:32:34 GMT</pubDate>
-    <guid>https://matteobertozzi.github.io/posts/ec2-small-machines</guid>
+    <guid>https://matteobertozzi.github.io/#/posts/ec2-small-machines</guid>
   </item>
   
 
   <item>
     <title>Data-center Rolling Upgrades coordinated by ZooKeeper</title>
-    <link>https://matteobertozzi.github.io/posts/datacenter-coordinated-rolling-upgrades</link>
+    <link>https://matteobertozzi.github.io/#/posts/datacenter-coordinated-rolling-upgrades</link>
     <pubDate>Sun, 24 Jun 2012 10:31:48 GMT</pubDate>
-    <guid>https://matteobertozzi.github.io/posts/datacenter-coordinated-rolling-upgrades</guid>
+    <guid>https://matteobertozzi.github.io/#/posts/datacenter-coordinated-rolling-upgrades</guid>
   </item>
   
 
   <item>
     <title>Data-center deploy using torrent and mlock()</title>
-    <link>https://matteobertozzi.github.io/posts/datacenter-deploy-torrent-mlock</link>
+    <link>https://matteobertozzi.github.io/#/posts/datacenter-deploy-torrent-mlock</link>
     <pubDate>Sat, 02 Jun 2012 16:28:48 GMT</pubDate>
-    <guid>https://matteobertozzi.github.io/posts/datacenter-deploy-torrent-mlock</guid>
+    <guid>https://matteobertozzi.github.io/#/posts/datacenter-deploy-torrent-mlock</guid>
   </item>
   
 </channel>
