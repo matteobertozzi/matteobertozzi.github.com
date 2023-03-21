@@ -1,4 +1,26 @@
 {
+  "angular": [
+    {
+      "id": "angular-on-github-pages",
+      "title": "Run Angular on Github Pages",
+      "timestamp": 1679374250000,
+      "tags": [
+        "angular",
+        "github pages"
+      ]
+    }
+  ],
+  "github pages": [
+    {
+      "id": "angular-on-github-pages",
+      "title": "Run Angular on Github Pages",
+      "timestamp": 1679374250000,
+      "tags": [
+        "angular",
+        "github pages"
+      ]
+    }
+  ],
   "key-value stores": [
     {
       "id": "kvstore-composite-key",

@@ -6,9 +6,17 @@
   <description>Th30z blog posts and code</description>
   <language>en-us</language>
   <copyright>© 2012 - 2023 Matteo Bertozzi</copyright>
-  <lastBuildDate>Sun, 19 Mar 2023 08:57:28 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 21 Mar 2023 04:50:50 GMT</lastBuildDate>
   <atom:link href="https://matteobertozzi.github.io/#/posts.xml" rel="self" type="application/rss+xml"/>
 
+
+  <item>
+    <title>Run Angular on Github Pages</title>
+    <link>https://matteobertozzi.github.io/#/posts/angular-on-github-pages</link>
+    <pubDate>Tue, 21 Mar 2023 04:50:50 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/posts/angular-on-github-pages</guid>
+  </item>
+  
 
   <item>
     <title>Composite Key in Key/Value Stores</title>
