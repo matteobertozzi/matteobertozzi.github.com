@@ -8,8 +8,8 @@
 
 YAJBE is a compact binary data format built to be a drop-in replacement for JSON (JavaScript Object Notation).
 
-You can find the repository here: [https://github.com/matteobertozzi/yajbe-data-format](https://github.com/matteobertozzi/yajbe-data-format)
-
+You can find the repository here: https://github.com/matteobertozzi/yajbe-data-format \
+And a video with the presentation here: https://youtu.be/ilbsLXa7uT8
 
 ### Motivation for a new format
 We have a lot of services exchanging or storing data using JSON, and most of them don't want to switch to a data format that requires a schema.
