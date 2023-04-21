@@ -1,4 +1,40 @@
 {
+  "python": [
+    {
+      "id": "asyncio-simple-http-server",
+      "title": "asyncio simple HTTP Server",
+      "timestamp": 1682072839000,
+      "tags": [
+        "python",
+        "asyncio",
+        "http"
+      ]
+    }
+  ],
+  "asyncio": [
+    {
+      "id": "asyncio-simple-http-server",
+      "title": "asyncio simple HTTP Server",
+      "timestamp": 1682072839000,
+      "tags": [
+        "python",
+        "asyncio",
+        "http"
+      ]
+    }
+  ],
+  "http": [
+    {
+      "id": "asyncio-simple-http-server",
+      "title": "asyncio simple HTTP Server",
+      "timestamp": 1682072839000,
+      "tags": [
+        "python",
+        "asyncio",
+        "http"
+      ]
+    }
+  ],
   "angular": [
     {
       "id": "angular-on-github-pages",
@@ -191,6 +227,16 @@
   ],
   "aws": [
     {
+      "id": "deno-lambda-arm",
+      "title": "Deno AWS Lambda ARM/Graviton2 Build",
+      "timestamp": 1650659671000,
+      "tags": [
+        "aws",
+        "aws-lambda",
+        "deno"
+      ]
+    },
+    {
       "id": "ec2-small-machines",
       "title": "AWS EC2 Small Machines Ref Chart",
       "timestamp": 1649514754000,
@@ -198,6 +244,30 @@
         "aws",
         "ec2",
         "graviton"
+      ]
+    }
+  ],
+  "aws-lambda": [
+    {
+      "id": "deno-lambda-arm",
+      "title": "Deno AWS Lambda ARM/Graviton2 Build",
+      "timestamp": 1650659671000,
+      "tags": [
+        "aws",
+        "aws-lambda",
+        "deno"
+      ]
+    }
+  ],
+  "deno": [
+    {
+      "id": "deno-lambda-arm",
+      "title": "Deno AWS Lambda ARM/Graviton2 Build",
+      "timestamp": 1650659671000,
+      "tags": [
+        "aws",
+        "aws-lambda",
+        "deno"
       ]
     }
   ],

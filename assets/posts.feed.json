@@ -1,5 +1,15 @@
 [
   {
+    "id": "asyncio-simple-http-server",
+    "title": "asyncio simple HTTP Server",
+    "timestamp": 1682072839000,
+    "tags": [
+      "python",
+      "asyncio",
+      "http"
+    ]
+  },
+  {
     "id": "angular-on-github-pages",
     "title": "Run Angular on Github Pages",
     "timestamp": 1679374250000,
@@ -95,7 +105,12 @@
   {
     "id": "deno-lambda-arm",
     "title": "Deno AWS Lambda ARM/Graviton2 Build",
-    "timestamp": 1650659671000
+    "timestamp": 1650659671000,
+    "tags": [
+      "aws",
+      "aws-lambda",
+      "deno"
+    ]
   },
   {
     "id": "ec2-small-machines",

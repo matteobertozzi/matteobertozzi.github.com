@@ -1,7 +1,8 @@
 ---
 {
   "title": "Deno AWS Lambda ARM/Graviton2 Build",
-  "timestamp": 1650659671000
+  "timestamp": 1650659671000,
+  "tags": ["aws", "aws-lambda", "deno"]
 }
 ---
 
