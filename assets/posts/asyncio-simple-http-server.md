@@ -12,7 +12,8 @@ If you are implementing your HTTP API tests using the SimpleHTTPServer,
 It is a smple asyncio server, with few helpers to handle routing and json encode/decode.
 
 ### Install the package
-You can find the package at https://pypi.org/project/asyncio-simple-http-server. and install it using pip. (Python >=3.8 is required)
+You can find the package at https://pypi.org/project/asyncio-simple-http-server. \
+Python >=3.8 is required. To install or upgrade you can use:
 ```bash
 $ pip install asyncio-simple-http-server
 ```
@@ -62,7 +63,7 @@ class MyHandler:
     # return values will be converted with json.dumps()
     @uri_mapping('/test-get')
     def test_get(self):
-        return {a: 10}
+        return {'a': 10}
 
     # In this case the mapping says that we want a POST method
     # and by passing an argument named 'body' we will get the
