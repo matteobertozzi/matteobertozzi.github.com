@@ -1,0 +1,18 @@
+<page-content [state]="state()" (reloadContent)="reloadContent()">
+  @for (group of feed(); track group.date) {
+    <div class="feed-group">
+      <div class="date">{{ group.date | date: 'MMM yyyy' }}</div>
+
+      @for (item of group.items; track item.id) {
+        <div class="feed-item">
+          <a [routerLink]="['/blog/post', item.id]" class="link-dark">
+            <div class="d-flex">
+              <div class="timestamp">{{ item.timestamp | date: 'd E' }}</div>
+              <div class="title">{{ item.title }}</div>
+            </div>
+          </a>
+        </div>
+      }
+    </div>
+  }
+</page-content>

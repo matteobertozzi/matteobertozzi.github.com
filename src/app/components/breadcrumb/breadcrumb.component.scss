@@ -1,0 +1,13 @@
+.breadcrumb {
+  margin: 0;
+  padding: 2px 0;
+
+  a { text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .breadcrumb-item {
+    .active {
+
+    }
+  }
+}

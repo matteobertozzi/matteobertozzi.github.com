@@ -1,0 +1,21 @@
+@switch (state()) {
+  @case (ContentState.LOADING) {
+    <div class="mx-auto py-5" style="width: 130px">
+      <div class="d-flex align-items-center gap-3">
+        <div class="spinner-border" role="status" aria-hidden="true"></div>
+        <strong>Loading...</strong>
+      </div>
+    </div>
+  }
+  @case (ContentState.LOADED) {
+    <ng-content />
+  }
+  @case (ContentState.FAILED) {
+    <section class="py-5">
+      <div class="text-center">
+        <h3>Oops! We are currently unable to load the page</h3>
+        <p>Something went wrong, retry later.</p>
+      </div>
+    </section>
+  }
+}

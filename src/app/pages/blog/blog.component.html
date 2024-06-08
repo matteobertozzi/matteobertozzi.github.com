@@ -1,0 +1,23 @@
+<div class="container">
+  <div class="img-header">
+      <img src="./assets/header.png" class="mx-auto img-fluid" />
+  </div>
+
+  <div class="hbar d-flex">
+    <div class="flex-grow-1">
+      <app-breadcrumb />
+    </div>
+    <div class="d-flex gap-3">
+      <social-link type="twitter" [link]="social.twitter" />
+      <social-link type="youtube" [link]="social.youtube" />
+      <social-link type="speaker-deck" [link]="social.speakerDeck" />
+      <social-link type="github" [link]="social.github" />
+      <social-link type="gists" [link]="social.gists" />
+      <social-link type="rss" [link]="social.rss" />
+    </div>
+  </div>
+
+  <div class="content">
+    <router-outlet />
+  </div>
+</div>

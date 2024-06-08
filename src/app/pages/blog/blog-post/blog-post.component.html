@@ -1,0 +1,15 @@
+<page-content [state]="state()" (reloadContent)="reloadContent()">
+  @if (blogPost(); as post) {
+    <h1>{{ post.title }}</h1>
+    <div class="metadata">
+      <p class="timestamp">{{ post.timestamp | date:'medium' }}</p>
+      <p class="tags">
+        @for (tag of post.tags; track tag) {
+          <a [routerLink]="['/blog']" [queryParams]="{tag: tag}">{{ tag }}</a>
+        }
+      </p>
+    </div>
+    <div class="markdown" [innerHTML]="body()" codeHighlight>
+    </div>
+  }
+</page-content>

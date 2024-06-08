@@ -1,0 +1,12 @@
+<ol class="breadcrumb">
+  <li class="breadcrumb-item">
+    <a routerLinkActive="active" ariaCurrentWhenActive="page" [routerLinkActiveOptions]="{exact: true}" routerLink="/">Home</a>
+  </li>
+  @if (currentPage(); as page) {
+    <li class="breadcrumb-item">
+      <a routerLinkActive="active" ariaCurrentWhenActive="page" [routerLinkActiveOptions]="{exact: true}" [routerLink]="page.url" [queryParams]="page.queryParams">
+        {{ page.title }}
+      </a>
+    </li>
+  }
+</ol>

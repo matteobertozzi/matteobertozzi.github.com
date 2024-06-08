@@ -1,0 +1,23 @@
+.feed-group {
+  .date {
+    font-weight: bold;
+  }
+}
+
+.feed-group { margin-bottom: 20px; }
+.feed-group:last-child { margin-bottom: 0; }
+
+.feed-item {
+  padding: 5px 2px;
+
+  a { text-decoration: none !important; display: flex; }
+  .timestamp { font-style: italic; width: 56px; }
+  .title { padding-left: 8px; }
+}
+
+.feed-item:hover { background: #e7e7e7; }
+
+.feed-item { border-bottom: 1px dashed #ddd; }
+.feed-item:last-child { border-bottom: none; }
+
+.tag-results-info { font-style: italic; font-size: small; }

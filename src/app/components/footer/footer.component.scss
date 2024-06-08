@@ -1,0 +1,24 @@
+.hbar {
+  margin: 0 0 12px 0;
+  padding: 5px 0;
+  border-top: 1px solid #dfdfdf;
+  border-bottom: 1px solid #dfdfdf;
+}
+
+
+.footer {
+  font-size: 10px;
+  font-style: italic;
+  text-align: center;
+  color: #aaaaaa;
+  margin-bottom: 40px;
+
+  a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: #aaaaaa;
+  }
+
+  a:hover {
+    color: #9f9f9f;
+  }
+}

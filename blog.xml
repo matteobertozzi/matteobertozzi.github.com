@@ -1,0 +1,149 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+
+<channel>
+  <title>Th30z (Matteo Bertozzi Code)</title>
+  <link>https://matteobertozzi.github.io/</link>
+  <description>Th30z blog posts and code</description>
+  <language>en-us</language>
+  <copyright>© 2012 - 2024 Matteo Bertozzi</copyright>
+  <lastBuildDate>Sun, 28 May 2023 09:02:34 GMT</lastBuildDate>
+  <atom:link href="https://matteobertozzi.github.io/#/posts.xml" rel="self" type="application/rss+xml"/>
+
+
+  <item>
+    <title>UUID, ULID, Snowflake IDs</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/uuid-ulid-snowflake</link>
+    <pubDate>Sun, 28 May 2023 09:02:34 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/uuid-ulid-snowflake</guid>
+  </item>
+  
+
+  <item>
+    <title>asyncio simple HTTP Server</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/asyncio-simple-http-server</link>
+    <pubDate>Fri, 21 Apr 2023 10:27:19 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/asyncio-simple-http-server</guid>
+  </item>
+  
+
+  <item>
+    <title>Run Angular on Github Pages</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/angular-on-github-pages</link>
+    <pubDate>Tue, 21 Mar 2023 04:50:50 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/angular-on-github-pages</guid>
+  </item>
+  
+
+  <item>
+    <title>Composite Key in Key/Value Stores</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/kvstore-composite-key</link>
+    <pubDate>Sun, 19 Mar 2023 08:57:28 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/kvstore-composite-key</guid>
+  </item>
+  
+
+  <item>
+    <title>Identify Frequent "Words"</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/identify-frequent-words</link>
+    <pubDate>Sun, 05 Mar 2023 12:04:51 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/identify-frequent-words</guid>
+  </item>
+  
+
+  <item>
+    <title>Yet Another JSON Binary Encoding</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/yajbe-encoding</link>
+    <pubDate>Sat, 18 Feb 2023 11:56:33 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/yajbe-encoding</guid>
+  </item>
+  
+
+  <item>
+    <title>Group Row objects by Fields and Types</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/group-row-objs-by-fields-and-types</link>
+    <pubDate>Sun, 05 Feb 2023 08:02:17 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/group-row-objs-by-fields-and-types</guid>
+  </item>
+  
+
+  <item>
+    <title>String/Enum Streaming Encoding</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/enum-streaming-encoding</link>
+    <pubDate>Sat, 04 Feb 2023 12:21:49 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/enum-streaming-encoding</guid>
+  </item>
+  
+
+  <item>
+    <title>A better VarInt (Sqlite4)</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/sqlite-varint</link>
+    <pubDate>Sun, 22 Jan 2023 20:56:01 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/sqlite-varint</guid>
+  </item>
+  
+
+  <item>
+    <title>Google Authenticator One Time Password</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/otp-google-authenticator</link>
+    <pubDate>Sun, 15 Jan 2023 17:43:32 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/otp-google-authenticator</guid>
+  </item>
+  
+
+  <item>
+    <title>Hash Indexed Array</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/hash-indexed-array</link>
+    <pubDate>Sat, 19 Nov 2022 16:55:34 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/hash-indexed-array</guid>
+  </item>
+  
+
+  <item>
+    <title>Sort Correlated Arrays</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/sort-correlated-arrays</link>
+    <pubDate>Sat, 12 Nov 2022 19:05:07 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/sort-correlated-arrays</guid>
+  </item>
+  
+
+  <item>
+    <title>Int Sequence Compression</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/int-seq-compression</link>
+    <pubDate>Sat, 05 Nov 2022 03:46:01 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/int-seq-compression</guid>
+  </item>
+  
+
+  <item>
+    <title>Deno AWS Lambda ARM/Graviton2 Build</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/deno-lambda-arm</link>
+    <pubDate>Fri, 22 Apr 2022 20:34:31 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/deno-lambda-arm</guid>
+  </item>
+  
+
+  <item>
+    <title>AWS EC2 Small Machines Ref Chart</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/ec2-small-machines</link>
+    <pubDate>Sat, 09 Apr 2022 14:32:34 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/ec2-small-machines</guid>
+  </item>
+  
+
+  <item>
+    <title>Data-center Rolling Upgrades coordinated by ZooKeeper</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/datacenter-coordinated-rolling-upgrades</link>
+    <pubDate>Sun, 24 Jun 2012 10:31:48 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/datacenter-coordinated-rolling-upgrades</guid>
+  </item>
+  
+
+  <item>
+    <title>Data-center deploy using torrent and mlock()</title>
+    <link>https://matteobertozzi.github.io/#/blog/post/datacenter-deploy-torrent-mlock</link>
+    <pubDate>Sat, 02 Jun 2012 16:28:48 GMT</pubDate>
+    <guid>https://matteobertozzi.github.io/#/blog/post/datacenter-deploy-torrent-mlock</guid>
+  </item>
+  
+</channel>
+</rss>

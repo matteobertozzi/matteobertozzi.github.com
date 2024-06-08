@@ -1,0 +1,29 @@
+.metadata {
+  margin-bottom: 1rem;
+  p { margin-bottom: 0; }
+
+  .timestamp {
+    font-style: italic;
+    font-size: small;
+  }
+  .tags {
+    padding: 0;
+    margin: 0;
+    a:before { content: "#"; }
+    a {
+      font-style: italic;
+      font-size: small;
+      margin-right: 5px;
+    }
+    a:last-child { margin-right: 0; }
+  }
+}
+
+.h1, h1 {
+  font-size: calc(1.275rem + 1vw);
+}
+@media (min-width: 1200px) {
+  .h1, h1 {
+    font-size: 2.3rem;
+  }
+}
