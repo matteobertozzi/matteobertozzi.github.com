@@ -19,7 +19,7 @@ Must to Have (Monitoring)
  * Current service state of each machines (online/offline, service v1, v2)
  * Current "deploy" state (Ready to roll?)
 
-<p align="center"><img src="${blog.baseUrl}/assets/posts/imgs/datacenter-coordinated-rolling-upgrades.png"></p>
+<p align="center"><img src="${blog.baseUrl}/assets/blog/posts/imgs/datacenter-coordinated-rolling-upgrades.png"></p>
 
 The idea is quite simple, using ZooKeeper to keep track of each Service (A, B, ..., K) with the list of machines available (ephemeral znodes) and to keep track of te deploy state ("staging").
  * /dc/current: Contains a list of services with the list of online machines (and relative service version).
@@ -28,7 +28,7 @@ The idea is quite simple, using ZooKeeper to keep track of each Service (A, B, .
 When you're ready to deploy something new you can create the new znodes:
  * Add services to "staging" with the useful metadata (version, download path, ...)
  * Define a deploy "order" queue
-Each service is notified about the new staging version and starts downloading (see "[data-center deploy using torrent and mlock()](./posts/datacenter-deploy-torrent-mlock)" post). Once the download is completed, the service register it self to the "staging" queue.
+Each service is notified about the new staging version and starts downloading (see "[data-center deploy using torrent and mlock()](./blog/post/datacenter-deploy-torrent-mlock)" post). Once the download is completed, the service register it self to the "staging" queue.
 
 Now the tricky part is when can I start switching to the new version? The idea is to specify a quorum foreach service. The First machine in the "Staging" queue for the first service in the "Deploy" queue, looks for the quorum, and when is time shutdown it self and restart the new service. Once is done  adds it self to the "Current" list and remove it self from the staging queue.
 

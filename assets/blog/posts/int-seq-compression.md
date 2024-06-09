@@ -10,7 +10,7 @@ Time-series data, like sensor/device data, product/service usage, etc... is high
 Most of the values are the same or have the same pattern over time.
 
 Time-series can be seen as an "array" of measurement where each item is the measurement in a specific interval of time.
-```
+```text
 10:20am [ 0 | 0 | 1 | 2 | 3 | 3 | 3 | 3 | 4 | 50 | 31 ] 10:30am
 ```
 
@@ -36,7 +36,7 @@ For the generic case, we try to group items taking the min value of the group an
 
 *A simple java implementation of serialization can be found here: [IntSeqCoding.java](https://github.com/matteobertozzi/dnaco-java/blob/main/dnaco-data/src/main/java/tech/dnaco/data/encoding/IntSeqCoding.java)*
 
-[img-base]: ${blog.baseUrl}/assets/posts/imgs/int-seq-compression-base.png
-[img-rle]: ${blog.baseUrl}/assets/posts/imgs/int-seq-compression-rle.png
-[img-lin]: ${blog.baseUrl}/assets/posts/imgs/int-seq-compression-lin.png
-[img-min]: ${blog.baseUrl}/assets/posts/imgs/int-seq-compression-min.png
+[img-base]: ${blog.baseUrl}/assets/blog/posts/imgs/int-seq-compression-base.png
+[img-rle]: ${blog.baseUrl}/assets/blog/posts/imgs/int-seq-compression-rle.png
+[img-lin]: ${blog.baseUrl}/assets/blog/posts/imgs/int-seq-compression-lin.png
+[img-min]: ${blog.baseUrl}/assets/blog/posts/imgs/int-seq-compression-min.png

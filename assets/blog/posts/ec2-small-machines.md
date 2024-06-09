@@ -12,4 +12,4 @@ I use the Graviton (ARM) machines, so the smaller/cheaper ones are the t4g, a1, 
 ![EC2 Machines][ec2-machines]
 
 
-[ec2-machines]: ${blog.baseUrl}/assets/posts/imgs/ec2-small-machines-chart.png
+[ec2-machines]: ${blog.baseUrl}/assets/blog/posts/imgs/ec2-small-machines-chart.png

@@ -8,7 +8,7 @@
 Every morning you come in the office hoping that the nightly job that produce your blobs has finished... and if everything is fine, you spend the rest of the day hoping that none of the machines fails during transfer...
 If you've a service that consume static data and you've more than one datacenter, probably everyday you face the problem of distributing data on all your service machines.
 
-<img align="left" style="padding-right: 20px" src="${blog.baseUrl}/assets/posts/imgs/datacenter-deploy-torrent-mlock-machines.png" />
+<img align="left" style="padding-right: 20px" src="${blog.baseUrl}/assets/blog/posts/imgs/datacenter-deploy-torrent-mlock-machines.png" />
 Remember: 60MiB/sec * 1hour = ~210GiB
 
 So what are the possible solution to transfer this blobs?
