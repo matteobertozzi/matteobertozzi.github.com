@@ -65,5 +65,5 @@ final long i64Value = dkey.getInt64(1);             // 123
 final ByteArraySlice bytesValue = dkey.get(2);      // { 4, 0, 5 }
 ```
 
-You can find the full source code on Github [RowKey.java](https://github.com/matteobertozzi/dnaco-java/blob/main/dnaco-core/src/main/java/tech/dnaco/bytes/encoding/RowKey.java)
+You can find the full source code on Github [RowKey.java](https://github.com/matteobertozzi/rednaco-java/blob/main/rednaco-core/src/main/java/io/github/matteobertozzi/rednaco/bytes/encoding/RowKey.java)
 
